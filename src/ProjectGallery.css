@@ -1,0 +1,23 @@
+.project-gallery-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .project-gallery-title {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .project-gallery {
+    display: flex;
+    overflow-x: scroll;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .project-gallery-image {
+    max-width: 300px;
+    height: auto;
+    margin-right: 1rem;
+  }
+  

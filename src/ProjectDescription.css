@@ -1,0 +1,16 @@
+.project-description-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .project-title {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .project-description {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-top: 1rem;
+  }
+  
