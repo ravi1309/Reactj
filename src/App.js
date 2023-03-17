@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css'; // import your CSS file
 
-import ProjectImage from './components/ProjectImage';
-import ProjectDescription from './components/ProjectDescription';
-import MemberTable from './components/MemberTable';
-import ProjectGallery from './components/ProjectGallery';
+//import ProjectImage from './components/ProjectImage';
+//import ProjectDescription from './components/ProjectDescription';
+//import MemberTable from './components/MemberTable';
+//import ProjectGallery from './components/ProjectGallery';
 
 function App() {
   return (
